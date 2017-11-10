@@ -1,5 +1,5 @@
 # elm-to-fac
-A basic elm app that takes a post code and gives a list of journey times to get to FAC bethnal green. Converted from the original JS of [this travel app made by FAC11](https://github.com/FAC-11/3To5)
+A basic elm app that takes a post code and gives a list of journey times to get to FAC bethnal green. Inspired by [this travel app made by FAC11](https://github.com/FAC-11/3To5)
 
 ## Structure
 ```
