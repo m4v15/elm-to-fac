@@ -27,14 +27,9 @@ type alias Model =
 model : Model
 model =
     { journeys =
-        [ { duration = 32
+        [ { duration = 0
           , legs =
-                [ "Walk to Bow Church DLR"
-                , "25 bus or 205 bus to Mile End Station"
-                , "Get off at Mile End Station / Mile End Rd"
-                , "339 bus to St Barnabas Church (E3)"
-                , "Walk to E2 0SY"
-                ]
+                [ "" ]
           }
         ]
     , postCode = "e3 3hr"
